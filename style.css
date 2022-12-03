@@ -1,0 +1,13 @@
+body{
+    
+    background-color: rgb(217, 0, 255);
+    font-family: cursive;
+    border: 2px dashed #062bfa;
+}
+.imagen{
+    width: 150;
+}
+.imagen{
+    border-radius: 20px;
+    border: 2px dashed #89aeff;
+}
